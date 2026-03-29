@@ -17,6 +17,7 @@
 15.script -q -c "weave version" /dev/null
 16.script -q -c "weave init" /dev/null
 
+# Further steps for complete appchain setup and codebase environment :
 
 Stop and remove everything from the previous attempt
 
