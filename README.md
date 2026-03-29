@@ -1,4 +1,5 @@
 # INITIA
+```
 1.mkdir my-initia-project
 2.cd my-initia-project
 3.apt-get update
@@ -185,7 +186,7 @@ Relayer is running — check for activity, no crash errors:
 
 32.weave rollup start -d
 33.weave opinit start executor -d
-
+```
 ## Setup is complete. In this folder only we will be writing our entire codebase.
 
 
